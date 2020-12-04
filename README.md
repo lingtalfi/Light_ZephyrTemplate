@@ -59,6 +59,10 @@ The **template** service can be used to render html using the [zephyr template e
 History Log
 =============
 
+- 1.2.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.2.0 -- 2019-11-11
 
     - changed service name to zephyr_template
