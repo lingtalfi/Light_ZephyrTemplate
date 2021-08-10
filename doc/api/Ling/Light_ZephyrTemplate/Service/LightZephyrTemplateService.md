@@ -2,7 +2,7 @@
 
 
 
-The LightZephyrTemplate class
+The LightZephyrTemplateService class
 ================
 2019-04-09 --> 2021-08-10
 
@@ -14,7 +14,7 @@ The LightZephyrTemplate class
 Introduction
 ============
 
-The LightZephyrTemplate class.
+The LightZephyrTemplateService class.
 
 
 
@@ -22,7 +22,7 @@ Class synopsis
 ==============
 
 
-class <span class="pl-k">LightZephyrTemplate</span> extends [ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) implements [UniversalTemplateEngineInterface](https://github.com/lingtalfi/UniversalTemplateEngine/blob/master/UniversalTemplateEngineInterface.php) {
+class <span class="pl-k">LightZephyrTemplateService</span> extends [LightZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate/blob/master/doc/api/Ling/Light_ZephyrTemplate/LightZephyrTemplate.md) implements [UniversalTemplateEngineInterface](https://github.com/lingtalfi/UniversalTemplateEngine/blob/master/UniversalTemplateEngineInterface.php) {
 
 - Inherited methods
     - public ZephyrTemplateEngine::__construct() : void
@@ -55,11 +55,11 @@ Methods
 
 Location
 =============
-Ling\Light_ZephyrTemplate\LightZephyrTemplate<br>
-See the source code of [Ling\Light_ZephyrTemplate\LightZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate/blob/master/LightZephyrTemplate.php)
+Ling\Light_ZephyrTemplate\Service\LightZephyrTemplateService<br>
+See the source code of [Ling\Light_ZephyrTemplate\Service\LightZephyrTemplateService](https://github.com/lingtalfi/Light_ZephyrTemplate/blob/master/Service/LightZephyrTemplateService.php)
 
 
 
 SeeAlso
 ==============
-Next class: [LightZephyrTemplateService](https://github.com/lingtalfi/Light_ZephyrTemplate/blob/master/doc/api/Ling/Light_ZephyrTemplate/Service/LightZephyrTemplateService.md)<br>
+Previous class: [LightZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate/blob/master/doc/api/Ling/Light_ZephyrTemplate/LightZephyrTemplate.md)<br>
